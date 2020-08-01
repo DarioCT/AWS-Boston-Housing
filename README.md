@@ -1,4 +1,4 @@
-# AWS-Boston-Housing
+# AWS-Sagemaker-Boston-Housing
 
 Simple ML project created from scratch in AWS Sagemaker.
 
