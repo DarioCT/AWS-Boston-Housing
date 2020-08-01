@@ -16,10 +16,10 @@ The project will cosist of three note Jupyter notebooks:
 ![Model Training](images/training.png)
 
 ## AWS Tuned Model Training
-![Tuned Model Training](images/tuned training.png)
+![Tuned Model Training](images/tuned_training.png)
 
 ## Batch Transformation
-![Batch Transformation](images/batch transform.png)
+![Batch Transformation](images/batch_transform.png)
 
 ## Model Evaluation
 ![Model Evaluation](images/result.png)
