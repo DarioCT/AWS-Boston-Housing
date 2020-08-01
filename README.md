@@ -12,4 +12,15 @@ The project will cosist of three note Jupyter notebooks:
 
 3. Boston Housing - XGBoost (Deploy) - High Level
 
+## AWS Model Training
+![Model Training](images/training.png)
+
+## AWS Tuned Model Training
+![Tuned Model Training](images/tuned training.png)
+
+## Batch Transformation
+![Batch Transformation](images/batch transform.png)
+
+## Model Evaluation
+![Model Evaluation](images/result.png)
 
