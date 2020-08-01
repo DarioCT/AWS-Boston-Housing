@@ -8,6 +8,8 @@ The project will cosist of three note Jupyter notebooks:
 
 1. Boston Housing - XGBoost (Batch Transform) - High Level.ipynb
 
-2. Boston Housing - XGBoost (Deploy) - High Level
+2. Boston Housing - XGBoost (Hyperparameter Tuning) - High Level.ipynb
 
-3. Boston Housing - XGBoost (Hyperparameter Tuning) - High Level.ipynb
+3. Boston Housing - XGBoost (Deploy) - High Level
+
+
